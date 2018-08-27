@@ -1,0 +1,22 @@
+default:
+  # GENERAL SECTION
+  managingBranch: "Aachen"
+  # DATES SECTION
+  orderDate: "-9"
+  transportDate: "-5"
+  # TRANSPORT INFORMATION SECTION
+  transportMode: "Rail"
+  # LITIGATION SECTION
+  # REMARKS SECTION
+  # PARTY SECTION
+  principal: "Aachener allround"
+  consignor: "Aachener Tanzclub"
+  conveyor: "Aachen"
+  claimant: "Aachen"
+  # POLICY SECTION
+  policy: "AXA FFL 2018"
+  # REQUESTED AMOUNT SECTION
+  claimedAmount: "200"
+  
+
+

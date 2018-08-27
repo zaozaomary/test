@@ -1,0 +1,57 @@
+default:
+  # GENERAL SECTION
+  managingBranch: "hangzhou branch"
+  # DATES SECTION
+  lossDate: "-10"
+  reminderDate: "6"
+  timebarDate: "100"
+  # LOSS INFORMATION SECTION
+  placeOfDamage: "Domestic Terminal - inbound"
+  kindOfDamage: "Delay"
+  reasonOfDamage: "Missing deadline"
+  #GOODS INFORMATION
+  goodsCode: "Building material, Goods out of Stone, cement"
+  # TRANSPORT INFORMATION SECTION
+  transportMode: "Maritime"
+  claimant: "hangzhou" 
+  claimedOffice: "hangzhou"
+  responsibleOffice: "hangzhou"
+  principal: "hangzhou"
+  consignor: "hangzhou"
+  conveyor: "hangzhou"
+  # POLICY SECTION
+  policy: "PolicyTestData"
+  maxLiability: "200"
+  # REQUESTED AMOUNT SECTION
+  claimedAmount: "250"
+  # RESERVE SECTION
+  initialProvision: "100"
+  # no mandatory fields
+  orderDate: "-12"
+  damagedPieces: "1"
+  damagedWeight: "20"
+  totalPieces: "4"
+  totalWeight: "80"
+  packageType: "AutoTest"
+  incoTerm: "AutoTest Incoterm"
+  freightTerm: "AutoTest FreightTerm"
+  transportType: "Export"
+  product: "AutoTest Product"
+  productOption: "Auto Test Product Option"
+  claimRemarks: "auto test remarks 123"
+  updateMessage: "auto add update message"
+  insurerClaimNo: "543"
+  freightCharges: "12"
+  valueOfGoods: "201"
+  insurancePremium: "11"
+  amountLawyer: "100"
+  amountSuryeror: "20"
+  amountOthers: "5"
+  expectedRecovery: "101"
+  settlementCode: "Fully settled"
+  recoveryCode: "AutoTest Recovery Code"
+  financeRemark: "auto test finance remark"
+  
+
+
+

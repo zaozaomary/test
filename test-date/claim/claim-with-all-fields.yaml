@@ -1,0 +1,14 @@
+default:
+  # GENERAL SECTION
+  managingBranch: "nanjing"
+  # DATES SECTION
+  lossDate: "-22"
+  reminderDate: "23"
+  timebarDate: "120"
+  # LITIGATION SECTION
+  # REMARKS SECTION
+  # PARTY SECTION
+  consignor: "hangzhou"
+ 
+
+
